@@ -8,7 +8,7 @@ const App = () => {
   const [content, setContent] = useState("");
 
   useEffect(() => {
-    axios.get('http://localhost:8000/notes').then((res) => {
+    axios.get('https://fullstack-final-backend.onrender.com/notes').then((res) => {
       setNotes(res.data);
 
     }).catch((err) => {
@@ -18,7 +18,7 @@ const App = () => {
 
   const deleteNote = (id) => {
     axios
-      .delete(`http://localhost:8000/notes/${id}`)
+      .delete(`https://fullstack-final-backend.onrender.com/notes/${id}`)
       .then((res) => {
         console.log(res.data);
         setNotes(notes.filter((note) => note._id !== id));
@@ -49,7 +49,7 @@ const App = () => {
     e.preventDefault();
     console.log('Note added - ', notes);
     axios
-      .post('http://localhost:8000/notes', {
+      .post('https://fullstack-final-backend.onrender.com/notes', {
         title,
         content,
       })
