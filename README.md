@@ -1,6 +1,8 @@
 # Notes Keeper (Frontend)
 
-This is the frontend of the Notes Keeper app created using React. It has been deployed on Vercel (https://fullstack-final-frontend-delta.vercel.app/).
+This is the frontend of the Notes Keeper app created using React. It lets users create, edit, and delete notes (with Title and Content).
+
+It has been deployed on Vercel (https://fullstack-final-frontend-delta.vercel.app/).
 
 This project was based off of Shivam Shekhar's Note Taking app (https://github.com/shvam0000/Full-Stack-Note-Taking-Application).
 
