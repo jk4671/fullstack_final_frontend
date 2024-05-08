@@ -16,10 +16,6 @@ Install all the dependencies
 ```
 npm install
 ```
-or
-```
-yarn intsall
-```
 Change https://fullstack-final-backend.onrender.com to http://localhost:8000 (or other backend deployment) in App.js under the src directory under the frontend directory if you wish to run it locally
 ```
 http://localhost:8000
@@ -27,8 +23,4 @@ http://localhost:8000
 Run the React Server
 ```
 npm run start
-```
-or
-```
-yarn start
 ```
