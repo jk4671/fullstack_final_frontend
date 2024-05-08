@@ -6,6 +6,12 @@ This project was based off of Shivam Shekhar's Note Taking app (https://github.c
 
 The backend can be found here: https://github.com/jk4671/fullstack_final_backend.git.
 
+## Author
+
+Jordyn Kim
+
+UNI: jk4671
+
 ## Steps to run the program
 
 Move to the frontend directory
