@@ -16,7 +16,6 @@ UNI: jk4671
 
 ## Steps to run the program
 
-```
 Install all the dependencies
 ```
 npm install
