@@ -16,9 +16,6 @@ UNI: jk4671
 
 ## Steps to run the program
 
-Move to the frontend directory
-```
-cd frontend
 ```
 Install all the dependencies
 ```
