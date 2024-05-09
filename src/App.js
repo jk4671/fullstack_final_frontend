@@ -28,7 +28,7 @@ const App = () => {
 
   const updateNote = (id, updatedTitle, updatedContent) => {
     axios
-      .patch(`http://localhost:8000/notes/${id}`, {
+      .patch(`https://fullstack-final-backend.onrender.com/notes/${id}`, {
         title: updatedTitle,
         content: updatedContent,
       })
