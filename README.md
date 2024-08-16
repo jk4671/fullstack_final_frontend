@@ -1,4 +1,7 @@
 # Notes Keeper (Frontend)
+<p>
+  <img width="1063" alt="Working copy" src="https://github.com/user-attachments/assets/a31c3f66-d57c-4299-afdc-b60d396cae3c">
+</p>
 
 This is the frontend of the Notes Keeper app created using React. It lets users create, edit, and delete notes (with Title and Content).
 
@@ -13,6 +16,10 @@ The backend can be found here: https://github.com/jk4671/fullstack_final_backend
 Jordyn Kim
 
 UNI: jk4671
+
+## Demo
+
+https://www.youtube.com/watch?v=dvWX_CMpISg
 
 ## Steps to run the program
 
